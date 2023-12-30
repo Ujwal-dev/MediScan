@@ -1,0 +1,2 @@
+1. Login screen automatically appears during registration.
+2. Login is done even when enabled is set false.
